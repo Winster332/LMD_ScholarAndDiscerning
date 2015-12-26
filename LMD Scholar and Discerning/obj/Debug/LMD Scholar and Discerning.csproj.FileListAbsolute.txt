@@ -1,0 +1,13 @@
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\bin\Debug\LMD Scholar and Discerning.exe.config
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\bin\Debug\LMD Scholar and Discerning.exe
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\bin\Debug\LMD Scholar and Discerning.pdb
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD Scholar and Discerning.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.Form1.resources
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD Scholar and Discerning.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD Scholar and Discerning.exe
+c:\users\stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD Scholar and Discerning.pdb
+C:\Users\Stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.GUI.SAD_MENU.Form_menu.resources
+C:\Users\Stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.GUI.SAD_MENU.NeuronInformationPanel.resources
+C:\Users\Stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.GUI.BlankAccount.resources
+C:\Users\Stas\documents\visual studio 2012\Projects\LMD Scholar and Discerning\LMD Scholar and Discerning\obj\Debug\LMD_Scholar_and_Discerning.GUI.SAD_MENU.Form_save.resources
